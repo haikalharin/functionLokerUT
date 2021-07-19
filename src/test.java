@@ -8,8 +8,6 @@ public class test {
 
 
     static int lantaiHotel(int value){
-//        double valueFix = value/(double)6;
-//        int hasil = (int) Math.ceil(valueFix);
         int lantai = 0;
 
         ArrayList lima = new ArrayList(5);
